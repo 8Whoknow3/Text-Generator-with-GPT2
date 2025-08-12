@@ -3,6 +3,9 @@
 This repository contains a Jupyter notebook for **fine-tuning the GPT-2 language model** using the wikitext dataset.
 It leverages the Hugging Face 🤗 `transformers` library to adapt GPT-2 for domain-specific text generation.
 
+## Download Notebook
+download notebook from [here](https://drive.google.com/drive/folders/1qle3vugAMAmCIuGKIOM5N2kCWuMdQwv-?usp=sharing)
+
 ## 📌 Features
 
 * Tokenize text using the GPT-2 tokenizer.
@@ -103,5 +106,4 @@ tokenizer = GPT2Tokenizer.from_pretrained("model/")
 * [Hugging Face Transformers](https://github.com/huggingface/transformers)
 * [PyTorch](https://pytorch.org/)
 
-## Download Notebook
-- download notebook from [here](https://drive.google.com/file/d/1Kn6OPLYLX8T3B5vOuUkI3FG6V4px1zIz/view?usp=sharing)
+
