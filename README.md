@@ -102,3 +102,6 @@ tokenizer = GPT2Tokenizer.from_pretrained("model/")
 
 * [Hugging Face Transformers](https://github.com/huggingface/transformers)
 * [PyTorch](https://pytorch.org/)
+
+## Download Notebook
+- download notebook from [here](https://drive.google.com/file/d/1Kn6OPLYLX8T3B5vOuUkI3FG6V4px1zIz/view?usp=sharing)
